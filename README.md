@@ -1,6 +1,10 @@
 # CAISE2022
 
-This repository contains the source code to compute overall time and cost information for composed services. A submission to CAiSE2022.
+This repository contains the source code to compute overall time and cost information for composed services. 
+
+### Publication: 
+
+Hollauf, F.S., Franceschetti, M., Eder, J. (2022). Time-Cost Tradeoffs for Composed Services. In: Franch, X., Poels, G., Gailly, F., Snoeck, M. (eds) Advanced Information Systems Engineering. CAiSE 2022. Lecture Notes in Computer Science, vol 13295. Springer, Cham. https://doi.org/10.1007/978-3-031-07472-1_31
 
 Setup:
   - Java SDK 13
